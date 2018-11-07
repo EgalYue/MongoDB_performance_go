@@ -1,0 +1,6 @@
+averageTime_insert: 1.151501[s]
+averageTime_updateOneByOne: 27.228654[s]
+averageTime_updateOneRandom: 29.825594[s]
+averageTime_findOneByOne: 30.415884[s]
+averageTime_findRandom: 25.481959[s]
+averageTime_delete: 1.851979[s]
